@@ -1,16 +1,21 @@
-### Hi there 👋
+# Azrael Landres
+---
 
-<!--
-**AzraeLandres/AzraeLandres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm Azrael Landres, a passionate developer with expertise in various technologies. I'm looking for a job as a Junior Fullstack Developer.
 
-Here are some ideas to get you started:
+## Skills and Technologies
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blueviolet)
+![Angular](https://img.shields.io/badge/Angular-Expert-red)
+![Figma](https://img.shields.io/badge/Figma-Advanced-lightgrey)
+![Windows](https://img.shields.io/badge/Windows-Advanced-informational)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-yellowgreen)
+![Photoshop](https://img.shields.io/badge/Photoshop-Intermediate-success)
+![Illustrator](https://img.shields.io/badge/Illustrator-Intermediate-success)
+![WordPress](https://img.shields.io/badge/WordPress-Intermediate-informational)
+
+
