@@ -13,8 +13,8 @@ Hello there! I'm Azrael Landres, a passionate developer with expertise in variou
 ![Figma](https://img.shields.io/badge/Figma-lightgrey)
 ![Windows](https://img.shields.io/badge/Windows-informational)
 ![Linux](https://img.shields.io/badge/Linux-yellowgreen)
-![Photoshop](https://img.shields.io/badge/Photoshop-success)
-![Illustrator](https://img.shields.io/badge/Illustrator-success)
+![Photoshop](https://img.shields.io/badge/Photoshop-blue)
+![Illustrator](https://img.shields.io/badge/Illustrator-orange)
 ![WordPress](https://img.shields.io/badge/WordPress-informational)
 
 
